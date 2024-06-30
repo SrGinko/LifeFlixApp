@@ -16,6 +16,13 @@ const styles = StyleSheet.create({
         width:"100%",
         height: 200,
         marginTop:30
+    }),
+
+    press:({
+        backgroundColor: "#d81616",
+        padding: 20,
+        width: 70,
+        marginTop: 20
     })
     
 })
